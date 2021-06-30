@@ -1,0 +1,47 @@
+@media (max-width:994px){
+    .banner-text {
+        margin-top: 0rem;
+    }
+    .text {
+        margin-top: 4rem;
+    }
+    .prieg-section h3 {
+        margin: 20px 0;
+    }
+    .list-unstyled {
+        text-align: center;
+    }
+}
+@media (max-width:776px){
+    .text {
+        margin-top: 2rem;
+    }
+    .text h2 {
+        font-size: 25px;
+        margin: 15px 0;
+    }
+    .banner-text h2 {
+        font-size: 25px;
+        margin: 15px 0;
+    }
+    .list-unstyled {
+        text-align: center;
+    }
+    .box h2 {
+        padding: 30px;
+    }
+    .box p {
+        font-size: 22px;
+        margin: 4px 0;
+    }
+    .box h5 {
+        font-size: 20px;
+        line-height: 40px;
+    }
+    .box a {
+        margin-top: 5px;
+    }
+    .prieg-section {
+        padding: 25px 0;
+    }
+}

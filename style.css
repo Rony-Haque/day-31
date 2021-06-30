@@ -1,0 +1,136 @@
+img{
+    max-width: 100%;
+}
+/* .menu ul span{
+    display: none;
+} */
+.style{
+    font-size: 30px;
+    font-weight: 500;
+}
+.style span{
+    color:#75a3fe ;
+    font-size: 25px;
+}
+.text{
+    margin-top: 9rem;
+}
+.text h5{
+    margin:15px 0;
+    color: #4e637c;
+
+}
+.text h2{
+    font-size: 30px;
+    font-weight: 500;
+    margin: 20px 0;
+}
+.text p{
+    margin: 15px 0;
+
+}
+.banner-text{
+    margin-top: 4rem;
+}
+.banner-text h5{
+    margin:15px 0;
+    color: #4e637c;
+
+}
+.banner-text h2{
+    font-size: 30px;
+    font-weight: 500;
+    margin: 20px 0;
+}
+.banner-text p{
+    margin: 15px 0;
+
+}
+.prieg-section{
+     background-color: #8490ff;
+     padding: 60px 0;
+}
+.prieg-section h3{
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.title h2{
+    font-size: 35px;
+    font-weight: 500;
+    margin: 20px 0;
+}
+.title p{
+     font-size: 20px;
+     font-weight: 500;
+     margin: 25px;
+}
+.box{
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191, 0.4);
+    padding: 50px 10px;
+}
+.box h2{
+    background-color: #f9f9ff;
+    border-radius: 50%;
+    padding: 40px;
+    display: inline-block;
+}
+.box p{
+    font-size: 24px;
+    font-weight: 500;
+    margin: 5px 0;
+}
+.box small{
+    font-weight: 500;
+    margin: 10px 0;
+}
+.box h5{
+    color: #8b8988;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 50px;
+}
+.box a{
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191, 0.2);
+    margin-top: 10px;
+}
+.websit-img{
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191, 0.2);
+    padding: 40px 10px;
+}
+.websit-img img{
+    max-width: 40%;
+
+}
+.websit h2{
+    font-size: 30px;
+    font-weight: 500;
+
+}
+.websit p{
+    margin: 15px 0;
+}
+.websit a{
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191, 0.2);
+}
+.address-section {
+    background: #f9f9ff;
+}
+.address-data{
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191, 0.2);
+    padding: 30px 20px; 
+}
+.form1{
+    margin-top: 50px;
+}
+.form1 li h2{
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+.form1 li h5{
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
